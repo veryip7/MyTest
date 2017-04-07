@@ -20,7 +20,7 @@ http://www.baidu.com
 >>>>>>>>法在是
 
 ![baiduss](http://www.baidu.com/img/bdlogo.gif "百度hhlogo")
-``` c++
+``` Objective-C
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
