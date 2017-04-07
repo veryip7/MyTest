@@ -18,3 +18,5 @@ http://www.baidu.com
 >>晃
 >>>kjfd
 >>>>>>>>法在是
+
+![baiduss](http://www.baidu.com/img/bdlogo.gif "百度hhlogo")
