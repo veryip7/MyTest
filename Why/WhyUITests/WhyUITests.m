@@ -1,6 +1,6 @@
 //
-//  ShuShuUITests.m
-//  ShuShuUITests
+//  WhyUITests.m
+//  WhyUITests
 //
 //  Created by zhoubing on 17/4/7.
 //  Copyright © 2017年 dev8. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface ShuShuUITests : XCTestCase
+@interface WhyUITests : XCTestCase
 
 @end
 
-@implementation ShuShuUITests
+@implementation WhyUITests
 
 - (void)setUp {
     [super setUp];

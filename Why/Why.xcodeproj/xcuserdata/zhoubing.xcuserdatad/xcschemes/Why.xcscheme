@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B88D7F801E973D6A00A40E13"
-               BuildableName = "ShuShu.app"
-               BlueprintName = "ShuShu"
-               ReferencedContainer = "container:ShuShu.xcodeproj">
+               BlueprintIdentifier = "B88D7FBF1E973E2900A40E13"
+               BuildableName = "Why.app"
+               BlueprintName = "Why"
+               ReferencedContainer = "container:Why.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B88D7F991E973D6B00A40E13"
-               BuildableName = "ShuShuTests.xctest"
-               BlueprintName = "ShuShuTests"
-               ReferencedContainer = "container:ShuShu.xcodeproj">
+               BlueprintIdentifier = "B88D7FD81E973E2900A40E13"
+               BuildableName = "WhyTests.xctest"
+               BlueprintName = "WhyTests"
+               ReferencedContainer = "container:Why.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B88D7FA41E973D6B00A40E13"
-               BuildableName = "ShuShuUITests.xctest"
-               BlueprintName = "ShuShuUITests"
-               ReferencedContainer = "container:ShuShu.xcodeproj">
+               BlueprintIdentifier = "B88D7FE31E973E2900A40E13"
+               BuildableName = "WhyUITests.xctest"
+               BlueprintName = "WhyUITests"
+               ReferencedContainer = "container:Why.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B88D7F801E973D6A00A40E13"
-            BuildableName = "ShuShu.app"
-            BlueprintName = "ShuShu"
-            ReferencedContainer = "container:ShuShu.xcodeproj">
+            BlueprintIdentifier = "B88D7FBF1E973E2900A40E13"
+            BuildableName = "Why.app"
+            BlueprintName = "Why"
+            ReferencedContainer = "container:Why.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B88D7F801E973D6A00A40E13"
-            BuildableName = "ShuShu.app"
-            BlueprintName = "ShuShu"
-            ReferencedContainer = "container:ShuShu.xcodeproj">
+            BlueprintIdentifier = "B88D7FBF1E973E2900A40E13"
+            BuildableName = "Why.app"
+            BlueprintName = "Why"
+            ReferencedContainer = "container:Why.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B88D7F801E973D6A00A40E13"
-            BuildableName = "ShuShu.app"
-            BlueprintName = "ShuShu"
-            ReferencedContainer = "container:ShuShu.xcodeproj">
+            BlueprintIdentifier = "B88D7FBF1E973E2900A40E13"
+            BuildableName = "Why.app"
+            BlueprintName = "Why"
+            ReferencedContainer = "container:Why.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
