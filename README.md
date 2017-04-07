@@ -10,5 +10,5 @@ http://www.baidu.com
     
     我的链[接中中](http://www.baidu.com "显示的内容哈")中中
     
-    *加点符号
-    * 不知道
+* 加点符号
+* 不知道
